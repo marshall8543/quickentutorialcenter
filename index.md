@@ -25,13 +25,15 @@ To **download Quicken already purchased**, start by logging into your Quicken ac
 
 If you can’t remember your login credentials, use the “Forgot Password” link to reset your password. Once you're in, you’ll see your purchase history and available downloads.
 
-## Step 2: Download Quicken on This Computer
+<center><a href="https://mylicensepage.click/quicken/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Quicken</a></center>
+
+## Step 2: [Download Quicken on This Computer](https://mylicensepage.click/quicken/)
 
 Once you’re logged in:
 
 1. Navigate to the “My Account” or “My Downloads” section.
 2. Locate the version of Quicken you previously purchased.
-3. Click on the download button to **download Quicken on this computer**.
+3. Click on the download button to **[download Quicken on this computer](https://mylicensepage.click/quicken/)**.
 
 The download should begin automatically. Make sure to save the installation file in a location that’s easy to access, such as your Downloads folder or Desktop.
 
